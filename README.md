@@ -1,9 +1,9 @@
 ### Hi there I am Chety 👋
 
-- FullStack Developer in _Istanbul_ 🔭
-- Full time husband,father ✨
+- `FullStack Developer`🔭
+- Full time **husband && father** ✨
 - Curious about everything around world ⚡
-- Currently working with _HTML5,CSS3,React,Redux,TypeScript,ESNext,C#_ 🌱 
+- Currently working with _HTML5,CSS3,React,Redux,TypeScript,ESNext,Node,C#_ 🌱 
 - Also interested in _Ruby,Python,Go_ for fun 😄
 
 <!--
