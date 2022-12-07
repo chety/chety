@@ -1,10 +1,10 @@
-### Hi there I am Chety 👋
+### Hi there I am Chety. Software Enginner based in Berlin, Germany 👋
 
-- :high_brightness: `FullStack Developer`
+- :high_brightness: `FullStack Engineer`
 - :family: Full time **husband && father** 
 - :open_mouth: Curious about everything around world 
-- :fire: Currently working with _HTML5,CSS3,React,Redux,TypeScript,ESNext,Node,C#_ 
-- :astonished: Also interested in _Ruby,Python,Go_ for fun 
+- :fire: Currently working with _Javascript,Typescript,React,Golang,HTML5,CSS3_ 
+- :astonished: Also interested in _Ruby,Python_ for fun 
 
 <!--
 **chety/chety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
